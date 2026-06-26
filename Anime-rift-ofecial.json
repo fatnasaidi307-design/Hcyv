@@ -1,0 +1,24 @@
+{
+  "name": "Anime rift",
+  "type": "app",
+  "category": "ترفيه",
+  "developer": "anime rift team",
+  "rating": "4,8",
+  "downloads": "1M",
+  "size": "55MB",
+  "version": "3.13.6",
+  "download": "https://play.google.com/store/apps/details?id=com.riftapps.animerift",
+
+  "logo": "https://a.top4top.io/p_3829dmh8q0.jpeg",
+  "banner": "https://b.top4top.io/p_3829c87zj1.jpg",
+
+  "screenshots": [
+    "https://img.sanishtech.com/u/111d70f0dfbe4298842235ba9b52aa1f.webp",
+    "https://img.sanishtech.com/u/bc03221c60ab3892995545e3308c7bbd.webp",
+    "https://img.sanishtech.com/u/3fe3a6a7ba24297e93c2d433d7a5be02.webp",
+    "https://img.sanishtech.com/u/3d0c5c0a2d834db3119e69abb917f7f0.webp",
+    "https://img.sanishtech.com/u/4390c35ac7f8a163345a042e18d673b7.webp"
+  ],
+
+  "description": "تطبيق أنمي ريفت "
+}
